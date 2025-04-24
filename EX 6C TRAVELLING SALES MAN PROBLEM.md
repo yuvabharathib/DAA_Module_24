@@ -17,7 +17,7 @@ To Solve Travelling Sales man Problem for the following graph.
 ## Program:
 ```
 /*
-To implement the program forTSP.
+To implement the program for TSP.
 
 
 Developed by: 
